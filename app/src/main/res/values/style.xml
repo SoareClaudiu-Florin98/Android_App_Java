@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="OrangeText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">#EAB020</item>
+        <item name ="android:textStyle">bold|italic</item>
+    </style>
+
+
+
+</resources>
